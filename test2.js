@@ -11,14 +11,14 @@ $("html").fadeIn(2000);
 
 
 
+//REQURES JQUERY UI
 
+/*
+$( document ).click(function() {
+    $( "#online" ).effect( "shake" );
+  });
 
-
-
-
-
-
-
+*/
 
 $("#contactForm").hide();
 
